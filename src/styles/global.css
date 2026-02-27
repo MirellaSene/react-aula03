@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--cinza);
+    padding: 2rem;
+}
+
+h1 {
+    color: var(--azul);
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
